@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jamaal Francis 👋
 
-<!--
-**JFrancisSOC/JFrancisSOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior SOC Analyst | IT Support Professional | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm an aspiring Security Operations Center (SOC) Analyst with 8+ years of IT technical support experience and a strong foundation in cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ (Expected 2026)
+
+### Technical Skills
+- SIEM (Google Chronicle, Splunk)
+- Wireshark
+- Linux
+- Windows
+- Active Directory
+- TCP/IP, DNS, DHCP
+- SQL
+- Incident Response
+- Log Analysis
+- Network Security
+- NIST Cybersecurity Framework
+- MITRE ATT&CK
+
+### Current Goals
+- Build a professional SOC Analyst portfolio
+- Complete hands-on cybersecurity labs
+- Earn CompTIA Security+
+- Begin a career as a Junior SOC Analyst
+
+Thanks for visiting my profile!
