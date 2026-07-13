@@ -1,31 +1,32 @@
-# Hi, I'm Jamaal Francis 👋
+# 👋 Hi, I'm Jamaal Francis
 
-## Junior SOC Analyst | IT Support Professional | Cybersecurity Enthusiast
+I'm an aspiring SOC Analyst with a background in IT support and hands-on cybersecurity training. I've built a home SOC lab where I've completed 12 practical projects covering Linux, Windows, Splunk Enterprise, SIEM investigations, dashboards, alerts, and incident response.
 
-I'm an aspiring Security Operations Center (SOC) Analyst with 8+ years of IT technical support experience and a strong foundation in cybersecurity.
+I'm currently expanding my skills in Wireshark, Active Directory, SQL, Google Chronicle, MITRE ATT&CK, and the NIST Cybersecurity Framework while preparing for my first SOC Analyst role.
 
-### Certifications
-- Google Cybersecurity Professional Certificate
-- CompTIA Security+ (Expected 2026)
+## Current Progress
 
-### Technical Skills
-- SIEM (Google Chronicle, Splunk)
-- Wireshark
-- Linux
-- Windows
-- Active Directory
-- TCP/IP, DNS, DHCP
-- SQL
-- Incident Response
-- Log Analysis
-- Network Security
-- NIST Cybersecurity Framework
-- MITRE ATT&CK
+- ✅ Completed 12 hands-on SOC projects
+- ✅ Built and configured Splunk Enterprise
+- ✅ Investigated Windows, Linux, VPN, DNS, PowerShell, and Antivirus logs
+- ✅ Created dashboards and automated alerts
+- ✅ Completed a full incident response case study
+- ✅ Building a cybersecurity portfolio through real-world labs
 
-### Current Goals
-- Build a professional SOC Analyst portfolio
-- Complete hands-on cybersecurity labs
-- Earn CompTIA Security+
-- Begin a career as a Junior SOC Analyst
+## Current Goals
 
-Thanks for visiting my profile!
+- Expand my SOC analyst skill set with Wireshark, Active Directory, SQL, Google Chronicle, MITRE ATT&CK, and NIST.
+- Continue building hands-on cybersecurity projects.
+- Prepare for the CompTIA Security+ certification.
+- Obtain my first Junior SOC Analyst position.
+
+## Technical Skills
+
+**SIEM:** Splunk Enterprise (Google Chronicle coming soon)
+
+**Operating Systems:** Windows, Linux (Ubuntu)
+
+**Security:** Log Analysis, Incident Response, Threat Hunting, PowerShell, VPN, DNS
+
+**Tools:** Splunk, PowerShell, GitHub, VirtualBox
+
