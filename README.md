@@ -8,10 +8,16 @@ I'm currently expanding my skills in Wireshark, Active Directory, SQL, Google Ch
 
 - ✅ Completed 12 hands-on SOC projects
 - ✅ Built and configured Splunk Enterprise
-- ✅ Investigated Windows, Linux, VPN, DNS, PowerShell, and Antivirus logs
+- ✅ Investigated Windows, Linux, VPN, DNS, PowerShell, and antivirus logs
 - ✅ Created dashboards and automated alerts
 - ✅ Completed a full incident response case study
 - ✅ Building a cybersecurity portfolio through real-world labs
+
+## Featured Case Files
+
+### [Case File 03: Windows Failed Logon Investigation](https://github.com/JFrancisSOC/Case-File-03-Windows-Failed-Logon-Investigation)
+
+Investigated Windows failed and successful logon events using Event Viewer. I analyzed Event IDs `4625` and `4624`, reviewed source and process information, correlated the events, and classified the activity as benign local authentication activity.
 
 ## Current Goals
 
@@ -28,5 +34,4 @@ I'm currently expanding my skills in Wireshark, Active Directory, SQL, Google Ch
 
 **Security:** Log Analysis, Incident Response, Threat Hunting, PowerShell, VPN, DNS
 
-**Tools:** Splunk, PowerShell, GitHub, VirtualBox
-
+**Tools:** Splunk, Windows Event Viewer, Wireshark, PowerShell, GitHub, VirtualBox
