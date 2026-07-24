@@ -1,55 +1,171 @@
 # 👋 Hi, I'm Jamaal Francis
 
-I'm an aspiring SOC Analyst with a background in IT support and hands-on cybersecurity training. I've built a home SOC lab where I've completed 12 practical projects covering Linux, Windows, Splunk Enterprise, SIEM investigations, dashboards, alerts, and incident response.
+**Junior SOC Analyst Candidate** with hands-on experience investigating security events using **Microsoft Sentinel, Azure Data Explorer, Splunk, Wireshark, Windows Event Viewer, and Kusto Query Language (KQL).**
 
-I'm currently expanding my skills in Wireshark, Active Directory, SQL, Google Chronicle, MITRE ATT&CK, and the NIST Cybersecurity Framework while preparing for my first SOC Analyst role.
+I'm passionate about **threat hunting, incident response, and security operations**, and I'm continuously building practical cybersecurity skills through hands-on investigations and home lab projects. My goal is to leverage these skills to help organizations detect, investigate, and respond to cybersecurity threats.
 
-## Current Progress
+---
 
-- ✅ Completed 12 hands-on SOC projects
-- ✅ Built and configured Splunk Enterprise
-- ✅ Investigated Windows, Linux, VPN, DNS, PowerShell, and antivirus logs
-- ✅ Created dashboards and automated alerts
-- ✅ Completed a full incident response case study
-- ✅ Building a cybersecurity portfolio through real-world labs
+# 🛡️ Junior SOC Analyst Portfolio
 
-## Featured SOC Investigations
+✔️ **5 Hands-on Security Investigations**
 
-### [Case File 01 – Investigating Network Traffic with Wireshark](https://github.com/JFrancisSOC/Case-File-01-Investigating-Network-Traffic-with-WireShark)
-Analyzed network traffic, packet headers, DNS activity, TCP connections, and communication patterns using Wireshark.
+✔️ **Authentication, Phishing, Network Traffic, and Windows Log Analysis**
 
-### [Case File 02 – DNS Analysis](https://github.com/JFrancisSOC/Case-File-02-DNS-Analysis)
-Investigated DNS queries and responses, including record types, IP resolution, TTL values, and response behavior.
+✔️ **Splunk Security Projects**
 
-### [Case File 03 – Windows Failed Logon Investigation](https://github.com/JFrancisSOC/Case-File-03-Windows-Failed-Logon-Investigation)
-Analyzed Windows authentication events to compare failed and successful logons and determine whether the activity was suspicious.
+✔️ **Microsoft Sentinel & Azure Data Explorer Labs**
 
-### [Case File 04 – Phishing Email Investigation](https://github.com/JFrancisSOC/Case-File-04-Phishing-Email-Investigation)
-Investigated a suspicious email by reviewing sender details, message content, links, attachments, indicators of compromise, and phishing characteristics.
+✔️ **Wireshark Packet Analysis**
 
-### [Case File 05 – Investigating Suspicious Authentication Activity Using KQL](https://github.com/JFrancisSOC/Case-File-05-Investigating-Suspicious-Authentication-Activity-Using-KQL)
-Used Azure Data Explorer and KQL to analyze failed logins, successful authentications, source IP activity, account correlations, unusual login hours, and possible password-spraying behavior.
+✔️ **KQL Threat Hunting & Security Log Investigation**
 
-## Featured SIEM Projects
+📍 **Currently seeking Junior SOC Analyst, Cybersecurity Analyst, and IT Support opportunities.**
 
-- [SOC Incident Response Case Study](https://github.com/JFrancisSOC/Project-12-SOC-Incident-Response-Case-Study)
-- [Splunk Dashboards and Alerts](https://github.com/JFrancisSOC/Project-11-Splunk-Dashboards-and-Alerts)
-- [Suspicious PowerShell Investigation](https://github.com/JFrancisSOC/Project-10-Splunk-Security-Investigation-Suspicious-PowerShell-Activity)
-- [Splunk SPL Fundamentals](https://github.com/JFrancisSOC/Project-9-Splunk-Search-Processing-Language-SPL-Fundamentals)
+---
 
-## Current Goals
+# 📂 Featured SOC Investigations
 
-- Expand my SOC analyst skill set with Wireshark, Active Directory, SQL, Google Chronicle, MITRE ATT&CK, and NIST.
-- Continue building hands-on cybersecurity projects.
-- Prepare for the CompTIA Security+ certification.
-- Obtain my first Junior SOC Analyst position.
+### 🔹 [Case File 01 – Investigating Network Traffic with Wireshark](https://github.com/JFrancisSOC/Case-File-01-Investigating-Network-Traffic-with-WireShark)
 
-## Technical Skills
+Analyzed network traffic using Wireshark to inspect packet captures, identify protocols, examine DNS requests, follow TCP streams, and document findings using a structured SOC analyst investigation methodology.
 
-**SIEM:** Splunk Enterprise (Google Chronicle coming soon)
+---
 
-**Operating Systems:** Windows, Linux (Ubuntu)
+### 🔹 [Case File 02 – DNS Analysis](https://github.com/JFrancisSOC/Case-File-02-DNS-Analysis)
 
-**Security:** Log Analysis, Incident Response, Threat Hunting, PowerShell, VPN, DNS
+Investigated DNS traffic by analyzing queries, responses, record types, TTL values, IPv4/IPv6 resolution, and DNS communication patterns to better understand network behavior.
 
-**Tools:** Splunk, Windows Event Viewer, Wireshark, PowerShell, GitHub, VirtualBox
+---
+
+### 🔹 [Case File 03 – Windows Failed Logon Investigation](https://github.com/JFrancisSOC/Case-File-03-Windows-Failed-Logon-Investigation)
+
+Investigated Windows Security Event Logs to analyze failed and successful authentication attempts, identify suspicious login activity, and determine whether observed events indicated malicious or legitimate behavior.
+
+---
+
+### 🔹 [Case File 04 – Phishing Email Investigation](https://github.com/JFrancisSOC/Case-File-04-Phishing-Email-Investigation)
+
+Performed a phishing email investigation by examining sender information, email headers, embedded URLs, attachments, and indicators of compromise (IOCs) to determine whether the message represented a phishing attempt.
+
+---
+
+### 🔹 [Case File 05 – Investigating Suspicious Authentication Activity Using KQL](https://github.com/JFrancisSOC/Case-File-05-Investigating-Suspicious-Authentication-Activity-Using-KQL)
+
+Used Azure Data Explorer and Kusto Query Language (KQL) to investigate authentication activity by analyzing failed logins, successful authentications, source IP correlations, authentication timelines, login hours, and indicators consistent with password-spraying attacks.
+
+---
+
+# 📊 Portfolio Highlights
+
+- 🔍 5 Completed SOC Investigation Case Files
+- 🛡️ Authentication & Threat Hunting Investigations
+- 📧 Phishing Email Analysis
+- 🌐 Network Traffic Analysis
+- 📜 Windows Security Event Log Analysis
+- 📈 Splunk Dashboards & Alerting
+- 🔎 Microsoft Sentinel & Azure Data Explorer
+- 💻 PowerShell Fundamentals
+- 🐍 Python Fundamentals
+- 📚 Continuously Expanding Cybersecurity Home Lab
+
+---
+
+# 🛠️ Technical Skills
+
+## Security Operations
+
+- Threat Hunting
+- Security Monitoring
+- Log Analysis
+- Incident Response
+- Authentication Analysis
+- IOC Identification
+- MITRE ATT&CK Mapping
+- Security Documentation
+
+## SIEM & Security Platforms
+
+- Microsoft Sentinel
+- Azure Data Explorer
+- Splunk
+
+## Security & Investigation Tools
+
+- Wireshark
+- Windows Event Viewer
+- Microsoft Defender (Basic)
+- Git & GitHub
+
+## Query Languages
+
+- Kusto Query Language (KQL)
+- Splunk Processing Language (SPL)
+
+## Operating Systems
+
+- Windows
+- Linux (Basic)
+
+## Networking
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- DHCP
+- ICMP
+
+## Scripting
+
+- PowerShell
+- Python (Basic)
+
+---
+
+# 🎯 Current Focus
+
+I'm actively expanding my cybersecurity portfolio by building hands-on SOC investigations involving:
+
+- Microsoft Sentinel
+- Azure Data Explorer
+- Splunk
+- Windows Event Logs
+- Threat Hunting
+- Incident Response
+- Detection Engineering Fundamentals
+
+---
+
+# 🏆 Certifications
+
+- Google Cybersecurity Professional Certificate
+
+### 📖 Currently Learning
+
+- Microsoft Sentinel
+- Splunk
+- Kusto Query Language (KQL)
+- PowerShell
+- Python
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/jfrancissoc/
+
+💻 **GitHub**  
+https://github.com/JFrancisSOC
+
+---
+
+# 🚀 Career Objective
+
+I'm seeking an opportunity as a **Junior SOC Analyst, Cybersecurity Analyst, or IT Support professional with a cybersecurity focus**, where I can apply my hands-on investigation experience, continue developing my technical skills, and contribute to protecting organizational systems and data.
+
+---
+
+⭐ **Thank you for visiting my GitHub portfolio!**
+
+This portfolio showcases my continuous learning journey through hands-on security investigations, threat hunting exercises, SIEM labs, and practical cybersecurity projects. I regularly add new case files and projects as I continue developing the skills needed to succeed in a Security Operations Center (SOC) environment.
