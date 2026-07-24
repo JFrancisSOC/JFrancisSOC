@@ -13,11 +13,29 @@ I'm currently expanding my skills in Wireshark, Active Directory, SQL, Google Ch
 - ✅ Completed a full incident response case study
 - ✅ Building a cybersecurity portfolio through real-world labs
 
-## Featured Case Files
+## Featured SOC Investigations
 
-### [Case File 03: Windows Failed Logon Investigation](https://github.com/JFrancisSOC/Case-File-03-Windows-Failed-Logon-Investigation)
+### [Case File 01 – Investigating Network Traffic with Wireshark](https://github.com/JFrancisSOC/Case-File-01-Investigating-Network-Traffic-with-WireShark)
+Analyzed network traffic, packet headers, DNS activity, TCP connections, and communication patterns using Wireshark.
 
-Investigated Windows failed and successful logon events using Event Viewer. I analyzed Event IDs `4625` and `4624`, reviewed source and process information, correlated the events, and classified the activity as benign local authentication activity.
+### [Case File 02 – DNS Analysis](https://github.com/JFrancisSOC/Case-File-02-DNS-Analysis)
+Investigated DNS queries and responses, including record types, IP resolution, TTL values, and response behavior.
+
+### [Case File 03 – Windows Failed Logon Investigation](https://github.com/JFrancisSOC/Case-File-03-Windows-Failed-Logon-Investigation)
+Analyzed Windows authentication events to compare failed and successful logons and determine whether the activity was suspicious.
+
+### [Case File 04 – Phishing Email Investigation](https://github.com/JFrancisSOC/Case-File-04-Phishing-Email-Investigation)
+Investigated a suspicious email by reviewing sender details, message content, links, attachments, indicators of compromise, and phishing characteristics.
+
+### [Case File 05 – Investigating Suspicious Authentication Activity Using KQL](https://github.com/JFrancisSOC/Case-File-05-Investigating-Suspicious-Authentication-Activity-Using-KQL)
+Used Azure Data Explorer and KQL to analyze failed logins, successful authentications, source IP activity, account correlations, unusual login hours, and possible password-spraying behavior.
+
+## Featured SIEM Projects
+
+- [SOC Incident Response Case Study](https://github.com/JFrancisSOC/Project-12-SOC-Incident-Response-Case-Study)
+- [Splunk Dashboards and Alerts](https://github.com/JFrancisSOC/Project-11-Splunk-Dashboards-and-Alerts)
+- [Suspicious PowerShell Investigation](https://github.com/JFrancisSOC/Project-10-Splunk-Security-Investigation-Suspicious-PowerShell-Activity)
+- [Splunk SPL Fundamentals](https://github.com/JFrancisSOC/Project-9-Splunk-Search-Processing-Language-SPL-Fundamentals)
 
 ## Current Goals
 
