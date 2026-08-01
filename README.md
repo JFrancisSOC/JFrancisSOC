@@ -2,9 +2,9 @@
 
 ### Junior SOC Analyst Candidate | Technical Support Professional | Cybersecurity Portfolio
 
-I bring **eight years of Tier 1 and Tier 2 technical-support experience** troubleshooting Windows systems, internet connectivity, routers, email, TCP/IP, and DNS. I am building on that experience through hands-on cybersecurity investigations focused on alert analysis, network traffic, authentication activity, phishing, Windows logs, and SIEM tools.
+I bring **eight years of Tier 1 and Tier 2 technical-support experience** troubleshooting Windows systems, internet connectivity, routers, email, TCP/IP, and DNS. I am building on that experience through hands-on cybersecurity investigations focused on alert triage, network traffic, authentication activity, phishing, vulnerability scanning, endpoint alerts, Linux and Windows logs, and SIEM tools.
 
-I completed the **Google Cybersecurity Professional Certificate**, **12 cybersecurity foundation projects**, **5 SOC case files**, and **3 Blue Team Labs Online investigations**.
+I completed the **Google Cybersecurity Professional Certificate**, **12 cybersecurity foundation projects**, **9 SOC case files**, and **3 Blue Team Labs Online investigations**.
 
 **Currently seeking Junior SOC Analyst, SOC Analyst I, Cybersecurity Analyst, and security-focused IT Support opportunities.**
 
@@ -14,13 +14,17 @@ I completed the **Google Cybersecurity Professional Certificate**, **12 cybersec
 
 ## Featured Investigations
 
+### [Case File 09 — SSH Brute-Force and Account-Compromise Investigation](https://github.com/JFrancisSOC/Case-File-09-SSH-Brute-Force-and-Account-Compromise-Investigation)
+
+Investigated a simulated SSH brute-force attack that led to a successful login and persistence attempt. Built an event timeline, reviewed authentication evidence, mapped the activity to MITRE ATT&CK, and documented containment and escalation actions.
+
 ### [Case File 05 — Suspicious Authentication Activity Using KQL](https://github.com/JFrancisSOC/Case-File-05-Investigating-Suspicious-Authentication-Activity-Using-KQL)
 
 Used Azure Data Explorer and KQL to analyze failed and successful authentications, correlate source IP addresses, build a login timeline, and identify behavior consistent with password spraying.
 
-### [BTLO-03 — Bruteforce](https://github.com/JFrancisSOC/BTLO-03-Bruteforce)
+### [Case File 07 — Endpoint Malware Alert Triage](https://github.com/JFrancisSOC/Case-File-07---Endpoint-Malware-Alert-Triage)
 
-Analyzed Windows authentication logs to identify brute-force activity, review relevant Event IDs, determine the affected account, and document the investigation.
+Reviewed a simulated endpoint malware alert, examined the affected host and detection details, identified suspicious activity, and documented the triage and response decision.
 
 ### [Case File 04 — Phishing Email Investigation](https://github.com/JFrancisSOC/Case-File-04-Phishing-Email-Investigation)
 
@@ -30,9 +34,19 @@ Examined sender details, email headers, URLs, attachments, and indicators of com
 
 Analyzed packet captures, DNS requests, protocols, and TCP streams using a structured SOC investigation and documentation process.
 
-### [Project 12 — SOC Incident Response Case Study](https://github.com/JFrancisSOC/Project-12-SOC-Incident-Response-Case-Study)
+---
 
-Worked through a structured incident-response scenario involving investigation, evidence review, containment decisions, documentation, and escalation.
+## SOC Case Files
+
+1. [Network Traffic Investigation with Wireshark](https://github.com/JFrancisSOC/Case-File-01-Investigating-Network-Traffic-with-WireShark)
+2. [DNS Analysis](https://github.com/JFrancisSOC/Case-File-02-DNS-Analysis)
+3. [Windows Failed Logon Investigation](https://github.com/JFrancisSOC/Case-File-03-Windows-Failed-Logon-Investigation)
+4. [Phishing Email Investigation](https://github.com/JFrancisSOC/Case-File-04-Phishing-Email-Investigation)
+5. [Suspicious Authentication Activity Using KQL](https://github.com/JFrancisSOC/Case-File-05-Investigating-Suspicious-Authentication-Activity-Using-KQL)
+6. [Vulnerability Scanning with Nmap](https://github.com/JFrancisSOC/Case-File-06-Vulnerability-Scanning-with-Nmap.)
+7. [Endpoint Malware Alert Triage](https://github.com/JFrancisSOC/Case-File-07---Endpoint-Malware-Alert-Triage)
+8. [Linux Security Log Investigation](https://github.com/JFrancisSOC/Case-File-08-Linux-Security-Log-Investigation)
+9. [SSH Brute-Force and Account-Compromise Investigation](https://github.com/JFrancisSOC/Case-File-09-SSH-Brute-Force-and-Account-Compromise-Investigation)
 
 ---
 
@@ -44,26 +58,16 @@ Worked through a structured incident-response scenario involving investigation, 
 
 ---
 
-## SOC Case Files
-
-1. [Investigating Network Traffic with Wireshark](https://github.com/JFrancisSOC/Case-File-01-Investigating-Network-Traffic-with-WireShark)
-2. [DNS Analysis](https://github.com/JFrancisSOC/Case-File-02-DNS-Analysis)
-3. [Windows Failed Logon Investigation](https://github.com/JFrancisSOC/Case-File-03-Windows-Failed-Logon-Investigation)
-4. [Phishing Email Investigation](https://github.com/JFrancisSOC/Case-File-04-Phishing-Email-Investigation)
-5. [Suspicious Authentication Activity Using KQL](https://github.com/JFrancisSOC/Case-File-05-Investigating-Suspicious-Authentication-Activity-Using-KQL)
-
----
-
 ## Technical Skills
 
 | Area | Skills and Tools |
-| --- | --- |
-| Security Operations | Alert triage, log analysis, threat hunting, IOC identification, incident response, escalation, security documentation |
+|---|---|
+| Security Operations | Alert triage, log analysis, threat hunting, IOC identification, incident response, containment, escalation, security documentation |
 | SIEM and Log Platforms | Splunk, Microsoft Sentinel, Azure Data Explorer |
-| Investigation Tools | Wireshark, Windows Event Viewer, Microsoft Defender fundamentals |
+| Investigation Tools | Wireshark, Nmap, Windows Event Viewer, Linux authentication logs, Microsoft Defender fundamentals |
 | Query Languages | Kusto Query Language (KQL), Splunk Processing Language (SPL) |
 | Systems | Windows, Linux, PowerShell |
-| Networking | TCP/IP, DNS, DHCP, HTTP/HTTPS, ICMP |
+| Networking | TCP/IP, DNS, DHCP, HTTP/HTTPS, ICMP, SSH |
 | Frameworks | MITRE ATT&CK, NIST incident-response fundamentals |
 
 ---
@@ -81,14 +85,15 @@ Completed 12 structured projects covering:
 
 ---
 
-## Current Development
+## Current Focus
 
-My next portfolio investigations focus on:
+I am continuing to:
 
-- Vulnerability management and remediation prioritization
-- Endpoint and malware alert triage
-- Full incident-response workflow
-- Continued interview preparation and technical practice
+- Practice alert triage and incident investigation
+- Improve my Splunk, KQL, Wireshark, Nmap, Windows, and Linux skills
+- Build stronger investigation timelines and escalation notes
+- Prepare for Junior SOC Analyst interviews
+- Apply for entry-level SOC and cybersecurity opportunities
 
 ---
 
